@@ -12,6 +12,9 @@ This Flask-based API listens for POST requests containing IP information and sto
 ### Requirements
 - Python 3.6+
 - Flask
+```python
+pip3.12 install flask
+```
 
 ### Installation
 1. Install Flask:
