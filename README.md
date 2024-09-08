@@ -52,7 +52,7 @@ This PowerShell script collects network information from the local machine and s
 
 - PowerShell 5.1+
 
-## Usage
+### Usage
 
 - Save the script
 - Run the script via your RMM or using GPO
